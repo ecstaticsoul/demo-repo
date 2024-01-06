@@ -1,7 +1,7 @@
 # demo-repo
 My first Git repository!
 
-Author : Krishna (GTU)
+Author : Krishna
 
 Hello! This is my first repository.
 
